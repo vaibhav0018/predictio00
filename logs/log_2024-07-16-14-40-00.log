@@ -1,0 +1,4 @@
+2024-07-16 14:40:00,269 - werkzeug - WARNING -  * Debugger is active!
+2024-07-16 14:40:00,274 - werkzeug - INFO -  * Debugger PIN: 461-387-623
+2024-07-16 14:40:04,956 - root - INFO - Logging a message from Flask application
+2024-07-16 14:40:04,957 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2024 14:40:04] "GET / HTTP/1.1" 200 -

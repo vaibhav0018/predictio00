@@ -1,0 +1,28 @@
+2024-07-16 14:39:39,940 - werkzeug - WARNING -  * Debugger is active!
+2024-07-16 14:39:39,944 - werkzeug - INFO -  * Debugger PIN: 909-545-996
+2024-07-16 14:39:48,473 - root - INFO - Logging a message from Flask application
+2024-07-16 14:39:48,473 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2024 14:39:48] "GET / HTTP/1.1" 200 -
+2024-07-16 14:39:52,237 - 2024-07-16 14:39:59,071 - werkzeug - INFO -  * Restarting with stat
+2024-07-16 14:40:00,186 - werkzeug - INFO -  * Restarting with stat
+"GET / HTTP/1.1" 200 -
+2024-07-16 14:39:52,381 - root - INFO - Logging a message from Flask application
+2024-07-16 14:39:52,381 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2024 14:39:52] "GET / HTTP/1.1" 200 -
+2024-07-16 14:39:52,560 - root - INFO - Logging a message from Flask application
+2024-07-16 14:39:52,561 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2024 14:39:52] "GET / HTTP/1.1" 200 -
+2024-07-16 14:39:52,814 - root - INFO - Logging a message from Flask application
+2024-07-16 14:39:52,815 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2024 14:39:52] "GET / HTTP/1.1" 200 -
+2024-07-16 14:39:53,069 - root - INFO - Logging a message from Flask application
+2024-07-16 14:39:53,069 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2024 14:39:53] "GET / HTTP/1.1" 200 -
+2024-07-16 14:39:53,233 - root - INFO - Logging a message from Flask application
+2024-07-16 14:39:53,234 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2024 14:39:53] "GET / HTTP/1.1" 200 -
+2024-07-16 14:39:53,486 - root - INFO - Logging a message from Flask application
+2024-07-16 14:39:53,487 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2024 14:39:53] "GET / HTTP/1.1" 200 -
+2024-07-16 14:39:53,654 - root - INFO - Logging a message from Flask application
+2024-07-16 14:39:53,655 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2024 14:39:53] "GET / HTTP/1.1" 200 -
+2024-07-16 14:39:53,834 - root - INFO - Logging a message from Flask application
+2024-07-16 14:39:53,834 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2024 14:39:53] "GET / HTTP/1.1" 200 -
+2024-07-16 14:39:54,310 - root - INFO - Logging a message from Flask application
+2024-07-16 14:39:54,311 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2024 14:39:54] "GET / HTTP/1.1" 200 -
+2024-07-16 14:39:54,609 - root - INFO - Logging a message from Flask application
+2024-07-16 14:39:54,609 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2024 14:39:54] "GET / HTTP/1.1" 200 -
+2024-07-16 14:39:59,052 - werkzeug - INFO -  * Detected change in '/home/avaxpro/Desktop/prediction/logs.py', reloading

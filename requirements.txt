@@ -1,0 +1,7 @@
+pandas
+numpy
+-e .
+Flask
+langchain
+pytorch
+matplotlib

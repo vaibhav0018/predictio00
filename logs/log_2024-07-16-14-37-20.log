@@ -1,0 +1,24 @@
+2024-07-16 14:37:20,254 - werkzeug - WARNING -  * Debugger is active!
+2024-07-16 14:37:20,259 - werkzeug - INFO -  * Debugger PIN: 182-533-755
+2024-07-16 14:39:14,976 - root - INFO - Logging a message from Flask application
+2024-07-16 14:39:14,977 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2024 14:39:14] "GET / HTTP/1.1" 200 -
+2024-07-16 14:39:27,778 - root - INFO - Logging a message from Flask application
+2024-07-16 14:39:27,779 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2024 14:39:27] "GET / HTTP/1.1" 200 -
+2024-07-16 14:39:28,660 - root - INFO - Logging a message from Flask application
+2024-07-16 14:39:28,660 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2024 14:39:28] "GET / HTTP/1.1" 200 -
+2024-07-16 14:39:28,831 - root - INFO - Logging a message from Flask application
+2024-07-16 14:39:28,832 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2024 14:39:28] "GET / HTTP/1.1" 200 -
+2024-07-16 14:39:29,008 - root - INFO - Logging a message from Flask application
+2024-07-16 14:39:29,008 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2024 14:39:29] "GET / HTTP/1.1" 200 -
+2024-07-16 14:39:29,490 - root - INFO - Logging a message from Flask application
+2024-07-16 14:39:29,491 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2024 14:39:29] "GET / HTTP/1.1" 200 -
+2024-07-16 14:39:29,658 - root - INFO - Logging a message from Flask application
+2024-07-16 14:39:29,658 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2024 14:39:29] "GET / HTTP/1.1" 200 -
+2024-07-16 14:39:29,802 - root - INFO - Logging a message from Flask application
+2024-07-16 14:39:29,803 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2024 14:39:29] "GET / HTTP/1.1" 200 -
+2024-07-16 14:39:29,926 - root - INFO - Logging a message from Flask application
+2024-07-16 14:39:29,927 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2024 14:39:29] "GET / HTTP/1.1" 200 -
+2024-07-16 14:39:30,156 - root - INFO - Logging a message from Flask application
+2024-07-16 14:39:30,157 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2024 14:39:30] "GET / HTTP/1.1" 200 -
+2024-07-16 14:39:30,335 - root - INFO - Logging a message from Flask application
+2024-07-16 14:39:30,335 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2024 14:39:30] "GET / HTTP/1.1" 200 -

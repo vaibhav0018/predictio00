@@ -1,0 +1,14 @@
+2024-07-16 15:37:01,394 - werkzeug - WARNING -  * Debugger is active!
+2024-07-16 15:37:01,394 - werkzeug - INFO -  * Debugger PIN: 647-153-627
+2024-07-16 15:37:19,435 - root - INFO - Error occurred in execution of:
+[/home/avaxpro/Desktop/prediction/exception.py] at try block line number: [14]
+and exception block line number: [16]
+Error message: [we are testing our exception file]
+2024-07-16 15:37:19,436 - root - INFO - we are testing our logging file
+2024-07-16 15:37:19,436 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2024 15:37:19] "GET / HTTP/1.1" 200 -
+2024-07-16 15:37:22,500 - root - INFO - Error occurred in execution of:
+[/home/avaxpro/Desktop/prediction/exception.py] at try block line number: [14]
+and exception block line number: [16]
+Error message: [we are testing our exception file]
+2024-07-16 15:37:22,501 - root - INFO - we are testing our logging file
+2024-07-16 15:37:22,501 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2024 15:37:22] "GET / HTTP/1.1" 200 -
